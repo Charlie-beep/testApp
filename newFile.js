@@ -1,7 +1,7 @@
 class Test {
     constructor() {}
 
-    awesomeMethod(awesome, method){
+    newAwesomeMethod(awesome, method){
         console.log("Awesome!!");
     }
 }
